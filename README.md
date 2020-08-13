@@ -1,7 +1,7 @@
 ### Hi, I'm Dennis
 
-I'm a full stack software engineer with 3 years experience designing and developing structured software systems.
+I'm a full stack software engineer with 3 years experience designing and developing structured software systems
 
-See my work: https://denniskrasnov.com/
+Find out more about me at [krasnov.dev](https://krasnov.dev) (I'm always looking for internship opportunities)
 
-My side hussle: https://github.com/Dennis-Krasnov/Diet-Driven
+Since you're already here, check out my projects below ⬇️
