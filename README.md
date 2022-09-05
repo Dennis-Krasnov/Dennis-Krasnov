@@ -1,8 +1,8 @@
-### Hi, I'm Dennis
+Hi! I'm an experienced software developer, available for hire May 2023.
 
-I'm a software engineer with 4 years experience designing and developing structured software systems.
+- 4 years of work experience
+- Several award-winning side projects
+- Skilled in system design
+- Expert in Rust
 
-I'm looking for an internship opportunity May 2022, find out more about me at [krasnov.dev](https://krasnov.dev).
-
-Since you're already here, check out my projects and contributions below ⬇️
-
+Find out more about me at [krasnov.dev](https://krasnov.dev).
