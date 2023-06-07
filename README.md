@@ -1,4 +1,4 @@
-Hi! I'm an experienced software developer, available for hire May 2023
+Hi! I'm an experienced software developer, available to start anytime
 
 - 4 years of work experience
 - Several award-winning side projects
